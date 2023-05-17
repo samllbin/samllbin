@@ -12,7 +12,7 @@
   <p>
     &ensp; &ensp; &ensp;目前就西北农林科技大学软件工程学院的大一菜鸡。
   </p>
-  <p>热爱前端，IT行业，励志成为一位资深程序员</p>
+  <p>&ensp; &ensp; &ensp;热爱前端，IT行业，励志成为一位资深程序员</p>
   </div>
   <div><img src="https://camo.githubusercontent.com/cc5975bb2049dafc8b65dbdd348d651f20a3cbd7d458a9404c0a62954b975587/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68692e676966"></div>
 </h1>
