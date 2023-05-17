@@ -1,6 +1,10 @@
 ### Hi there 👋
-
-
+![Metrics](https://metrics.lecoq.io/samllbin?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br><br><br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br><br><br><br><br><br>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);您呼叫的用户已关机!&center=true&size=27"> </a> </h1>
 <!--
 **samllbin/samllbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
